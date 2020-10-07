@@ -16,5 +16,6 @@ fun some(){
 
         // Changing this line when in master branch, second commit
 
+        // Changing this line when in Branch 1, third commit
     }
 }
